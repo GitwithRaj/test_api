@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      {
+        "id": "f50b",
+        "name": "Raj Kumar Prajapati",
+        "email": "rajuphsp140721@gmail.com"
+      },
+      {
+        "id": "2d36",
+        "name": "Vijay Vaswani",
+        "email": "Viyjay123@gmil.com"
+      }
+    ],
+    "posts": [
+      {
+        "id": "1",
+        "title": "Hello World",
+        "content": "This is a test post."
+      },
+      {
+        "id": "2",
+        "title": "Another Post",
+        "content": "This is another test post."
+      },
+      {
+        "id": "cadc",
+        "title": "New Post ",
+        "content": "Abhi Abhi join kiya"
+      },
+      {
+        "id": "1aca",
+        "title": "Vijay",
+        "content": "New post"
+      }
+    ]
+  }
